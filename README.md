@@ -13,7 +13,11 @@ Move the snake smoothly in four directions using the keyboard arrow keys.
 
 ## How To Play
 1.Start the Game: Simply run the script to start the game.
+
 2.Move the Snake: Use the arrow keys (←, ↑, →, ↓) to control the direction of the snake.
+
 3.Eat Food: Guide the snake to the red food items to grow in size and earn points.
+
 4.Avoid Collisions: Do not run into the walls or the snake's own body, as this will end the game.
+
 5.Score Points: The more food you eat, the higher your score!
